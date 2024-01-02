@@ -9,9 +9,9 @@ HTML is the language that powers the web. With HTML you can create your web page
 
 Topics include
 =====================
-1. [Introducing HTML](#section-2-introducing-html)
-    - 1a. [Introducing XHTML](#section-2a-introducing-xhtml)
-    - 1b. [Introducing HTML5](#section-2b-introducing-html5)
+1. [Introducing HTML](#section-1-introducing-html)
+    - 1a. [Introducing XHTML](#section-1a-introducing-xhtml)
+    - 1b. [Introducing HTML5](#section-1b-introducing-html5)
 
 **`HTML (HyperText Markup Language) - Markup language, essential page structure/content, readable and convey structure to the user, text layout model, page mark-up, text, tags, data, details for pages, images, tables, anchor links, forms`**
     - HTML is an acronym that stands for `HyperText Markup Language` which is used for creating `web pages and web applications
